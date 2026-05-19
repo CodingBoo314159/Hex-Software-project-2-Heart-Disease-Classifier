@@ -1,4 +1,6 @@
 # Hex-Software-project-2-Heart-Disease-Classifier
+Click this link to acces sthe interactive interface: https://huggingface.co/spaces/JenniferAnnKok/Heart_Disease_Classifier
+
 Heart Disease Prediction System
 Overview
 
